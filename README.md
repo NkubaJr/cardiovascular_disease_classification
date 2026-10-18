@@ -20,8 +20,8 @@ This project predicts the presence of cardiovascular disease from routine clinic
 | Resource | Link |
 |---|---|
 | Written report | Submitted as PDF on Canvas |
-| Google Drive folder (zipped raw dataset, best model weights, experiment logs) | YOUR_DRIVE_LINK |
-| Video presentation | YOUR_VIDEO_LINK |
+| Google Drive folder (zipped raw dataset, best model weights, experiment logs) | [link](https://drive.google.com/drive/folders/1S1-Kac_7Cg0X0pB7FHJeNRYTV7mtAnLw?usp=sharing) |
+| Video presentation | [link](https://youtu.be/ty8fDyxjtko?si=n_SSD_5EqjJlXH_M) |
 
 ## Problem and dataset
 **Task:** binary classification of cardiovascular disease (`cardio`: 1 = disease present, 0 = absent).
